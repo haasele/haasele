@@ -1,6 +1,4 @@
-### Hey there I am ▪️Leon▪️
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Tech+Enthusiast%2C+Engineer+and+Dev;Building+modern+applications;All+night+problemsolving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+there+I+am+Leon;Tech+Geek%2C+Engineer+and+Hobby-Dev)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=haasele&color=green)
 
