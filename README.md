@@ -14,8 +14,7 @@
 ### 🪧 My Links [WIP]
 
 <!-- MEDIUM-BLOG-LIST:START -->
-- [Website](https://haasele.org/)
-- [My Blog](https://haasele.org/blog)
+
 <!-- MEDIUM-BLOG-LIST:END -->
 
 <picture>
