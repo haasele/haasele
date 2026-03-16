@@ -8,16 +8,6 @@
 
 
 <picture>
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center"  width="100%" alt="Animated Divider Image">
-</picture>
-
-### 🪧 My Links [WIP]
-
-<!-- MEDIUM-BLOG-LIST:START -->
-
-<!-- MEDIUM-BLOG-LIST:END -->
-
-<picture>
   <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center" width="100%" alt="Image">
 </picture>
 <div align="center">
