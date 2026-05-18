@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=haasele&color=green)
 
-Linux System Engineer transitioning into DevOps. Passionate about Automation (Ansible, Bash), Containerization (Docker), and building reliable Infrastructure.
+Linux System Engineer transitioning into DevOps. Passionate about Automation via CI/CD, Bash and Ansible, Containerization, and building reliable Infrastructure.
 
 Hobbies: Photography, Engineering
 
