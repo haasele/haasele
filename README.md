@@ -2,15 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=haasele&color=green)
 
-- I’m currently working on the administration of various services, optimzations and modernizations of WebApplications
-- I’m currently learning various new and modern languages and applications
-- Hobbies: Photography, Engineering
+Linux System Engineer transitioning into DevOps. Passionate about Automation (Ansible, Bash), Containerization (Docker), and building reliable Infrastructure.
 
+Hobbies: Photography, Engineering
 
-<picture>
-  <img src="https://github.com/DhanushNehru/DhanushNehru/blob/master/assets/animated-divider.gif" align="center" width="100%" alt="Image">
-</picture>
-<div align="center">
+---
   
 ### 🏆 GitHub Trophies
 
