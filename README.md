@@ -46,24 +46,3 @@ Hobbies: Photography, Engineering
     <img alt="Discord Server" src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white&style=for-the-badge" />
   </a>
 </p>
--->
-
-<div align="center" style="margin-top: 20px;">
-  <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-    <a href="https://ko-fi.com/dtc-united" target="_blank" style="text-decoration: none;">
-      <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" />
-    </a>
-    <a href="https://www.buymeacoffee.com/dtc-united">
-      <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20book&emoji=%F0%9F%93%96&slug=dhanushnehru&button_colour=24292E&font_colour=FFFFFF&font_family=Poppins&outline_colour=6cc644&coffee_colour=ffffff" height="50" alt="Buy me a book" />
-    </a>
-  </p>
-</div>
-
-  <table align="left">
-      <tr>
-          <td>
-            🙂&nbsp;&nbsp;Check out my Repos!
-          </td>
-      </tr>
-  </table>
-</a>
